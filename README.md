@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @gauravrai1230
-- 👀 I’m interested in ... Hacking / Web Development
-- 🌱 I’m currently learning ... AWS
-- 💞️ I’m looking to collaborate on ...some cloud security projects
-
-
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Next Js**
+- 👀 I’m interested in ... Hacking / Web Development
+
+- 🌱 I’m currently learning **Next Js & AWS**
+  
+- 💞️ I’m looking to collaborate on ...some cloud security projects
 
 - 💬 Ask me about **React, Node JS,Express JS,Mongo DB, Firebase, Azure, Wordpress, ... and many more**
 
