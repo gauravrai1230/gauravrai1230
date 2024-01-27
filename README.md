@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gauravcreatorhub@gmail.com**
 
-- ⚡ Fun fact **I think I am funny ....**
+- ⚡ Have a look on **www.gauravrai.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
